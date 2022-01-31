@@ -1,5 +1,5 @@
-# send an email via Gmail
-# author Eret Haava
+# Send an email via Gmail
+# Author Eret Haava
 
 print ('in testEmail')
 import smtplib
