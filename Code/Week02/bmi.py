@@ -9,6 +9,9 @@ height = float(input('Enter your height in cm: '))
 weight = float(input('Enter your weight in kg: '))
 bmi = weight / (height/100)**2
 
+# If you want your BMI to be full number, use round
+# bmi = round(weight / (height/100)**2)
+
 # If you want only BMI, use this code
 # print('Your BMI is + {}' .format(bmi))
 # If you want to know are you normal weight or not,
