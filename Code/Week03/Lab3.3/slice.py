@@ -9,7 +9,7 @@
 # Author: Eret Haava
 
 string = input('Enter a string: ')
-n = 1
+n = 2
 slice = string[::n]
 print(slice)
 
